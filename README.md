@@ -1,1 +1,1 @@
-# OmniPDF-Template
+# Template
